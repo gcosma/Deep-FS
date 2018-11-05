@@ -29,10 +29,12 @@ Enter 2  to first select features using DeepFS and then train a Deep Boltzmann m
 
 The principle of DeepFS is described in [1]. The DBM in [2] is used in this code. 
 
-[1] A. Taherkhani, G. Cosma, and T. M. McGinnity, “Deep-FS: A feature selection algorithm for Deep Boltzmann Machines,” Neurocomputing, vol. 0, pp. 1–16, 2018.
+[1] Aboozar Taherkhani, Georgina Cosma, T. M McGinnity, Deep-FS: A feature selection algorithm for Deep Boltzmann Machines,
+Neurocomputing, Volume 322, 2018, Pages 22-37, ISSN 0925-2312, https://doi.org/10.1016/j.neucom.2018.09.040.
+(http://www.sciencedirect.com/science/article/pii/S0925231218311020)
+Keywords: Deep Boltzmann Machine; Deep learning; Deep Neural Networks; Feature selection; Restricted Boltzmann Machine; Generative models; Missing features
 
 [2] Learning Deep Boltzmann Machines, http://www.cs.toronto.edu/~rsalakhu/DBM.html
-
 
 Please e-mail me if us find bugs.  
 Dr Aboozar Taherkhani: 
