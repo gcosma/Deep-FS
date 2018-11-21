@@ -36,7 +36,7 @@ Keywords: Deep Boltzmann Machine; Deep learning; Deep Neural Networks; Feature s
 
 [2] Learning Deep Boltzmann Machines, http://www.cs.toronto.edu/~rsalakhu/DBM.html
 
-Please e-mail me if us find bugs.  
+Please e-mail us if you find bugs.  
 Dr Aboozar Taherkhani: 
 aboozar.taherkhani@ntu.ac.uk
 
